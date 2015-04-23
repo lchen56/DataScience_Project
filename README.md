@@ -1,5 +1,5 @@
 
-
+#####View Output
 To view the final tidy data output, please save the file to R directory, then use
 
 q1_data<-read.table("q1_data.txt",header=TRUE)
