@@ -1,4 +1,28 @@
 
+#####Project Overview
+The final tidy data is average of each variable for each activity (6) and each subject (30).
+  The variables are mean and stand deviation measurments of 
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+
+
+
 #####View Output
 To view the final tidy data output, please save the file to R directory, then use
 
@@ -7,6 +31,7 @@ View(q1_data)
 
 #####Overall Process
 The project use dplyr package to complete the final table, the package is loaded first
+
 1. Read the raw tables in R (train, test, labesl)
 
 2. Combine the train/ test sets accordingly with rbind and cbind
