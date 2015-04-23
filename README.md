@@ -1,4 +1,4 @@
-# DataScience_Project
+
 
 To view the final tidy data output, please save the file to R directory, then use
 
@@ -7,7 +7,7 @@ View(q1_data)
 
 
 The project use dplyr package to complete the final table, the package is loaded first
-
+#####Overall Process
 1. Read the raw tables in R (train, test, labesl)
 2. Combine the train/ test sets accordingly with rbind and cbind
 3. Add column labels from the raw label input
