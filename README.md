@@ -1,24 +1,9 @@
 
 #####Project Overview
 The final tidy data is average of each variable for each activity (6) and each subject (30).
-  The variables are mean and stand deviation measurments of 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+
+The variables are mean and stand deviation measurments of 66 variables, which are mean and standard deviation of measurements. 
+
 
 
 
